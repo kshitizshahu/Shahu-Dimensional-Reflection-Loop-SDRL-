@@ -40,7 +40,7 @@ It also opens questions about free will, identity, and consciousness:
 2. S2 changes in real-time in response to O3, maintaining partial information about it.
 3. Similarly, if a 4D object (O4) projects into 3D (S3), then S3 (our universe) holds partial, entropic information about O4.
 4. Consciousness and wavefunction collapses represent feedback loops from S3 back to O4.
-5. Therefore, a loop is formed: O4 \u2192 S3 \u2192 feedback \u2192 O4.
+5. Therefore, a loop is formed:
 
 ---
 
